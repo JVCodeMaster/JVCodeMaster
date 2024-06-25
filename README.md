@@ -1,7 +1,7 @@
 ## Olá!! Eu sou o João😉
 
 - 🧑‍🎓 Estudante de Sistemas de Informação.
-- 🌱  Estou estudando Javascript e aplicando o conhecimento em projetos reais.
+- 🧑‍💻 Estou estudando Javascript e aplicando o conhecimento em projetos reais.
   
 Rede Social:
 
