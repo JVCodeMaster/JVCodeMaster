@@ -5,7 +5,7 @@
   
 Redes Sociais:
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitehttps://www.linkedin.com/in/jo%C3%A3o-victor-8b009b273/">
+(https://www.linkedin.com/in/jo%C3%A3o-victor-8b009b273/)<br/>
 
 
 
